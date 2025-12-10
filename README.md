@@ -5,7 +5,7 @@ Signatures of many-body scars in bipartite spin-1 XY model and the effects of no
 Julia 1.10.5 or advanced
 
 ## Some Points
-The main codes uses path based storing for efficient operation. Please change the paths accordingly on your system.
+The main codes use path based storing for efficient operation. Please change the paths accordingly on your system.
 
 ## Author
 * **Himadri Halder**
